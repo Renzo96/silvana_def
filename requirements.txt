@@ -11,4 +11,4 @@ sockets
 lib-platform
 speedtest-cli
 scapy
-windows-tools.antivirus
+
