@@ -10,4 +10,4 @@ psutil
 sockets
 lib-platform
 speedtest-cli
-scapy.all
+scapy
