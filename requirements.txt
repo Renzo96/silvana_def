@@ -1,4 +1,3 @@
-python_version == 3.11.3
 PIP
 fastapi
 pandas
