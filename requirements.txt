@@ -7,7 +7,7 @@ mysql.connector
 starlette
 python-nmap
 psutil
-sockets
+socket
 lib-platform
 speedtest-cli
 scapy
